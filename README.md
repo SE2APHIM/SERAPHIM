@@ -2,7 +2,8 @@
 
 ## Metaphysical Consultant
 
-### [X](x.com/se2aphim) | [Link Text](URL) | [Link Text](URL)
+### <a href="https://x.com/se4aphim" target="_blank">X</a>
+
 
 
 **Bitcoin Address:**
