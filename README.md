@@ -1,5 +1,4 @@
-<a href="https://t.me/se2aphim" target="_blank">t.me/se2aphim</a>  
-<a href="https://x.com/se2aphim" target="_blank">x.com/se2aphim</a>   
+<a href="https://t.me/se2aphim" target="_blank">t.me/se2aphim</a> | <a href="https://x.com/se2aphim" target="_blank">x.com/se2aphim</a>   
 
 <span>Bitcoin Address:</span>
 <code id="btc-address">bc1qnpa5sku2u5jrcs87fk3fzw7qzd6cdvz009fu8q</code>
