@@ -1,5 +1,7 @@
 # SERAPHIM 
 
+## Metaphysical Consultant
+
 **Bitcoin Address:**
 `bc1qnpa5sku2u5jrcs87fk3fzw7qzd6cdvz009fu8q`
 
