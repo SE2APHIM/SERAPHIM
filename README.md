@@ -1,4 +1,4 @@
-## <a href="Telegram" target="_blank">t.me/se2aphim</a> | <a href="X" target="_blank">x.com/se2aphim</a>   
+## <a href="t.me/se2aphim" target="_blank">Telegram</a> | <a href="x.com/se2aphim" target="_blank">X</a>   
 
 <span>Bitcoin Address:</span>
 <code id="btc-address">bc1qnpa5sku2u5jrcs87fk3fzw7qzd6cdvz009fu8q</code>
