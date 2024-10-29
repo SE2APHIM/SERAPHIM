@@ -1,4 +1,4 @@
-# SERAPHIM
+<h1 style="text-align: center;">SERAPHIM</h1>
 
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/a2fbdb3d-3d5e-40ac-8ea3-09facdfcf2a9" alt="C2F7F980-DEBE-46D7-963E-B4623A80D105" width="50%">
