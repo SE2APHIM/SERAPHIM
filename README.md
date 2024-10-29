@@ -6,7 +6,7 @@
 <span>Ethereum Address:</span>
 `0x6522225DA238f259A4726DE1e747F5E6DcdaF16E`
 
-<span>Solana Address:</span>
+Solana Address:
 `sFKAqKC9GFWbnNg6Db7RjNYeCtrvTjuN9K1atFEmzJq`
 
 
