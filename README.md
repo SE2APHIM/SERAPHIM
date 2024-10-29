@@ -15,5 +15,3 @@
 **Solana Address:**
 `sFKAqKC9GFWbnNg6Db7RjNYeCtrvTjuN9K1atFEmzJq`
 
-
-![C2F7F980-DEBE-46D7-963E-B4623A80D105](https://github.com/user-attachments/assets/a2fbdb3d-3d5e-40ac-8ea3-09facdfcf2a9)
