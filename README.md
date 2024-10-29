@@ -1,8 +1,4 @@
-# SERAPHIM
-
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a2fbdb3d-3d5e-40ac-8ea3-09facdfcf2a9" alt="C2F7F980-DEBE-46D7-963E-B4623A80D105" width="25%">
-</div>
+# SERAPHIM <img src="https://github.com/user-attachments/assets/a2fbdb3d-3d5e-40ac-8ea3-09facdfcf2a9" alt="C2F7F980-DEBE-46D7-963E-B4623A80D105" width="50%">
 
 ## <a href="https://t.me/se2aphim" target="_blank">Telegram</a> | <a href="https://x.com/se2aphim" target="_blank">X</a>   
 
