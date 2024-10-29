@@ -1,6 +1,6 @@
   
 
-## <a href="https://t.me/se2aphim" target="_blank">Telegram</a> | <a href="https://x.com/se2aphim" target="_blank">X</a>   
+### <a href="https://t.me/se2aphim" target="_blank">Telegram</a> | <a href="https://x.com/se2aphim" target="_blank">X</a>   
 
 Bitcoin Address:
 `bc1qnpa5sku2u5jrcs87fk3fzw7qzd6cdvz009fu8q`
