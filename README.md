@@ -2,7 +2,7 @@
 
 ## Metaphysical Consultant
 
-### <a href="https://x.com/se4aphim" target="_blank">X</a>
+### <a href="https://x.com/se2aphim" target="_blank">X</a>
 
 
 
