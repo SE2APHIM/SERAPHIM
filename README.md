@@ -2,6 +2,9 @@
 
 ## Metaphysical Consultant
 
+### [X](x.com/se2aphim) | [Link Text](URL) | [Link Text](URL)
+
+
 **Bitcoin Address:**
 `bc1qnpa5sku2u5jrcs87fk3fzw7qzd6cdvz009fu8q`
 
