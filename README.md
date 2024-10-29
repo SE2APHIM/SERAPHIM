@@ -2,7 +2,7 @@
 
 ## Metaphysical Consultant
 
-### <a href="https://x.com/se2aphim" target="_blank">X</a> | [se2aphim@icloud.com](mailto:se2aphim@icloud.com)
+### <a href="https://x.com/se2aphim" target="_blank">X</a> | [Email](mailto:se2aphim@icloud.com)
 
 **Bitcoin Address:**
 `bc1qnpa5sku2u5jrcs87fk3fzw7qzd6cdvz009fu8q`
