@@ -13,6 +13,16 @@
     </span>
 </h2>
 
+<h2 style="width: 100%; overflow: hidden;">
+    <span style="float: left;">Metaphysical Consultant</span>
+    <span style="float: right;">
+        <a href="https://x.com/se2aphim" target="_blank">X</a> | 
+        <a href="mailto:se2aphim@icloud.com">Email</a> | 
+        <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
+    </span>
+</h2>
+
+
 ---
 
 I’m SERAPHIM, and my focus is on helping individuals connect with the present moment and unlock their potential. Through mindfulness and conscious living, I offer insights to help you align with your true nature and manifest your desires.
