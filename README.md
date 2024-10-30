@@ -4,10 +4,11 @@
 
 ### <a href="https://x.com/se2aphim" target="_blank">X</a> | [Email](mailto:se2aphim@icloud.com) | <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
 
-<p style="display: flex; justify-content: space-between;">
-    <span>Text on the left</span>
-    <span>Text on the right</span>
-</p>
+<h2 style="display: flex; justify-content: space-between;">
+    <span>Metaphysical Consultant</span>
+    <span>Other Text on the Right</span>
+</h2>
+
 
 
 ---
