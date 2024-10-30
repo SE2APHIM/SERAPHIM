@@ -11,13 +11,17 @@
 
 <p style="text-align: justify;">
 I’m SERAPHIM, and my focus is on helping individuals connect with the present moment and unlock their potential. Through mindfulness and conscious living, I offer insights to help you align with your true nature and manifest your desires.
+</p>
 
 ### My Approach
+<p style="text-align: justify;">
 You are the universe. Every decision you make expands your reality, and by living in the present, you open the path for all your desires to come to fruition. Life is not about perfection—it's about moving forward and trusting the flow of the universe.
 
 By staying present and making choices, no matter how small, you propel yourself toward everything you seek. I offer guidance to help you stay aligned and navigate life with clarity.
+</p>
 
 ### Consultations
+<p style="text-align: justify;">
 I provide consultations through Telegram, Twitter, or email. You send payment, and I offer personalized advice based on your needs. Pricing varies depending on the length and complexity of the exchange.
 </p>
 
