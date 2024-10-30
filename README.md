@@ -4,6 +4,12 @@
 
 ### <a href="https://x.com/se2aphim" target="_blank">X</a> | [Email](mailto:se2aphim@icloud.com) | <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
 
+<p style="display: flex; justify-content: space-between;">
+    <span>Text on the left</span>
+    <span>Text on the right</span>
+</p>
+
+
 ---
 
 I’m SERAPHIM, and my focus is on helping individuals connect with the present moment and unlock their potential. Through mindfulness and conscious living, I offer insights to help you align with your true nature and manifest your desires.
