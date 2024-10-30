@@ -4,6 +4,16 @@
 
 ### <a href="https://x.com/se2aphim" target="_blank">X</a> | [Email](mailto:se2aphim@icloud.com) | <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span>Metaphysical Consultant</span>
+    <span>
+        <a href="https://x.com/se2aphim" target="_blank">X</a> | 
+        <a href="mailto:se2aphim@icloud.com">Email</a> | 
+        <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
+    </span>
+</div>
+
+
 ---
 
 I’m SERAPHIM, and my focus is on helping individuals connect with the present moment and unlock their potential. Through mindfulness and conscious living, I offer insights to help you align with your true nature and manifest your desires.
