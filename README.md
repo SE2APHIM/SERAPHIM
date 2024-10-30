@@ -9,8 +9,6 @@
     </span>
 </h2>
 
----
-
 I’m SERAPHIM, and my focus is on helping individuals connect with the present moment and unlock their potential. Through mindfulness and conscious living, I offer insights to help you align with your true nature and manifest your desires.
 
 #### My Approach
