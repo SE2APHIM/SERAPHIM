@@ -14,7 +14,7 @@
 </h2>
 
 <p style="display: flex; justify-content: space-between;">
-    <span>Metaphysical Consultant</span>
+    <span># Metaphysical Consultant</span>
     <span> 
         <a href="https://x.com/se2aphim" target="_blank">X</a> | 
         <a href="mailto:se2aphim@icloud.com">Email</a> | 
