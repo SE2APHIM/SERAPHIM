@@ -18,6 +18,16 @@
     </span>
 </h2>
 
+<h2 style="display: flex; justify-content: space-between; align-items: center; margin: 0; padding: 0;">
+    <span style="margin-right: auto;">Metaphysical Consultant</span>
+    <span>
+        <a href="https://x.com/se2aphim" target="_blank">X</a> | 
+        <a href="mailto:se2aphim@icloud.com">Email</a> | 
+        <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
+    </span>
+</h2>
+
+
 
 
 ---
