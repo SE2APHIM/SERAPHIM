@@ -4,15 +4,6 @@
 
 ### <a href="https://x.com/se2aphim" target="_blank">X</a> | [Email](mailto:se2aphim@icloud.com) | <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
 
-<h2 style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <span>Metaphysical Consultant</span>
-    <span style="text-align: right;">
-        <a href="https://x.com/se2aphim" target="_blank">X</a> | 
-        <a href="mailto:se2aphim@icloud.com">Email</a> | 
-        <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
-    </span>
-</h2>
-
 <h2 style="width: 100%; overflow: hidden;">
     <span style="float: left;">Metaphysical Consultant</span>
     <span style="float: right;">
