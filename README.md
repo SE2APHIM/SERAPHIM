@@ -9,6 +9,15 @@
     <span>Other Text on the Right</span>
 </h2>
 
+<h2 style="display: flex; justify-content: space-between;">
+    <span>Metaphysical Consultant</span>
+    <span>
+        <a href="https://x.com/se2aphim" target="_blank">X</a> | 
+        <a href="mailto:se2aphim@icloud.com">Email</a> | 
+        <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
+    </span>
+</h2>
+
 
 
 ---
