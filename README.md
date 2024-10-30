@@ -1,6 +1,6 @@
 # SERAPHIM 
 
-## Metaphysical Consulting
+## Metaphysical Consultant
 
 ### <a href="https://x.com/se2aphim" target="_blank">X</a> | [Email](mailto:se2aphim@icloud.com) | <a href="https://t.me/se2aphim" target="_blank">Telegram</a>
 
