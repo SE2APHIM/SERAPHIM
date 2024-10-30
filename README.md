@@ -9,6 +9,7 @@
     </span>
 </h2>
 
+<p style="text-align: justify;">
 I’m SERAPHIM, and my focus is on helping individuals connect with the present moment and unlock their potential. Through mindfulness and conscious living, I offer insights to help you align with your true nature and manifest your desires.
 
 ### My Approach
@@ -18,3 +19,5 @@ By staying present and making choices, no matter how small, you propel yourself 
 
 ### Consultations
 I provide consultations through Telegram, Twitter, or email. You send payment, and I offer personalized advice based on your needs. Pricing varies depending on the length and complexity of the exchange.
+</p>
+
